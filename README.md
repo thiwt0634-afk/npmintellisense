@@ -1,4 +1,4 @@
-# Npm Intellisense
+# Npm Intellisense '
 
 Visual Studio Code plugin that autocompletes npm modules in import statements.
 
